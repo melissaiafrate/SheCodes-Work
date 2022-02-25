@@ -1,0 +1,65 @@
+.btn-group {
+  position: fixed;
+  top: 20px;
+  left: 50px;
+}
+.card {
+  margin: 100px 10px;
+  text-align: center;
+}
+.card-header {
+  font-weight: bold;
+  font-size: 22px;
+}
+.card-text {
+  text-align: center;
+}
+.emojis {
+  font-size: 30px;
+}
+.enter-city {
+  position: fixed;
+  top: 20px;
+  right: 80px;
+  text-transform: uppercase;
+}
+.feels-like,
+.last-updated {
+  font-size: 15px;
+}
+.feels-like2 {
+  font-size: 12px;
+}
+.forecast {
+  font-size: 18px;
+}
+.list-group-item {
+  padding: 10px;
+}
+.time-of-day {
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: underline;
+}
+.time-of-day-temp {
+  font-size: 22px;
+}
+.today-temp {
+  font-size: 17px;
+  border: thick double #dfdfdf;
+  padding: 0;
+}
+.weather-emoji {
+  font-size: 70px;
+}
+.weather-number {
+  font-size: 45px;
+}
+#current-location-button {
+  position: fixed;
+  top: 60px;
+  right: 80px;
+}
+#current-weather-icon {
+  font-size: 45px;
+}
